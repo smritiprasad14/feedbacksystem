@@ -1,0 +1,140 @@
+body
+{
+	background-image: url(../images/feedback1.png);
+	background-repeat: no-repeat;
+	background-position: 0% 105%;
+	background-size: 300px 300px;
+}
+
+html
+{
+	background-image: url(../images/feedback.png);
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	background-size: 300px 300px;
+}
+.name
+{
+	height: 100px;
+	margin-top: -41px;
+	margin-left: -41px;
+	margin-right: -41px;
+	text-align: center;
+	background-color: #66CDAA;
+	color: white;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: 400;
+	letter-spacing: 3px;
+	margin-bottom: -41px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	padding-top: 2px;
+	padding-bottom: 20px;
+}
+.student
+{
+	text-align: center;
+	margin-top: 14%;
+	margin-left: 31%;
+	margin-bottom: 10px;
+}
+td
+{
+	text-align: center;
+}
+
+.st_name
+{
+	margin-top: 47px;
+	font-weight: bolder;
+	font-size: 24px;
+}
+
+
+
+.home
+{
+	background-color: #FF7F50;
+	margin-top: -8px;
+	padding-top: 16px;
+	padding-bottom: 60px;
+	margin-left: -8px;
+	margin-right: -8px;
+	padding-left:5%;
+}
+.home a {
+	color: #FFFFFF;
+	padding-top: 5px;
+	padding-right: 100px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	font-weight: bold;	
+	text-decoration: inherit;
+}
+
+.input
+{
+	margin-top:100px;
+}
+
+.admin
+{
+	margin-top:50px;
+	
+}
+
+.admin a
+{
+	padding-right:15px;
+	text-decoration:inherit;
+	font-size:25px;
+	font-weight:bold;
+}
+
+.wel_adm
+{
+	margin-top:150px;
+    font-weight: bolder;
+	font-size: 40px;
+}
+
+tr td
+{
+	font-weight:bolder;
+	padding:5px;
+	
+}
+
+th
+{ 
+    font-weight:bolder;
+	padding:8px;
+	background-color:orange;
+}
+
+pre
+{
+	margin-left:50px;
+}
+
+.table
+{ 	
+   
+	margin-top:10px;
+	width:85%;
+}
+
+.inp
+{
+	height:25px;
+	width:200px;
+	font-size:20px;
+	
+}
+
+
+.button
+{
+	width:100px;
+	height:30px;
+}

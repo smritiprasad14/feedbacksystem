@@ -1,0 +1,68 @@
+.name
+{
+	height: 100px;
+	margin-top: -41px;
+	margin-left: -41px;
+	margin-right: -41px;
+	text-align: center;
+	background-color:  #66CDAA;
+	color: white;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: 400;
+	letter-spacing: 3px;
+	margin-bottom: -41px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	padding-top: 2px;
+	padding-bottom: 20px;
+}
+
+body
+{
+	background-image: url(../images/feedback1.png);
+	background-repeat: no-repeat;
+	background-position: 0% 105%;
+	background-size: 300px 300px;
+}
+
+html
+{
+	background-image: url(../images/feedback.png);
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	background-size: 300px 300px;
+}
+	
+
+.link
+{
+	margin-top:190px;
+}
+
+.tile
+{
+padding-left:250px;	
+}
+
+
+
+.home
+{
+	background-color: #FF7F50;
+	margin-top: -8px;
+	padding-top: 16px;
+	padding-bottom: 60px;
+	margin-left: -8px;
+	margin-right: -8px;
+	padding-left:5%;
+}
+.home a {
+	color: #FFFFFF;
+	padding-top: 5px;
+	padding-right: 100px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	font-weight: bold;	
+	text-decoration: inherit;
+}
+
